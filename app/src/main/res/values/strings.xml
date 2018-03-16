@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LifeLine</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_details">Details</string>
+    <string name="get_directions">Directions</string>
+    <string name="LifeLine">LifeLine</string>
+
+    <string-array name="arrayOfData">
+        <item>Number 1</item>
+        <item>Number 2</item>
+        <item>Number 3</item>
+        <item>Number 4</item>
+        <item>Number 5</item>
+        <item>Number 6</item>
+    </string-array>
+</resources>
